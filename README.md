@@ -32,8 +32,8 @@ A **real-time object detection system** built using YOLOv8, optimized for **CPU-
 ### 1. Clone repo
 
 ```bash
-git clone [Object Detection](https://github.com/mehtadigisha/Object-Detection)
-cd yolov8-cpu-object-detector
+git clone [Object Detection](https://github.com/mehtadigisha/Object-Detection))
+cd Object Detection
 ```
 
 ### 2. Create virtual environment
