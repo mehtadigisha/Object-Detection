@@ -1,4 +1,4 @@
-# 🚀 YOLOv8 CPU Object Detection (No GPU Required)
+# 🚀 Object Detection (No GPU Required)
 
 A **real-time object detection system** built using YOLOv8, optimized for **CPU-only systems** (Intel UHD Graphics / No CUDA).
 
@@ -190,3 +190,12 @@ hair drier  toothbrush
 
     ### - Output
       https://github.com/user-attachments/assets/b4298d0b-e381-4533-b8e7-2f2f1bfc90a7
+
+## 📄 License
+
+This project template is released under the **MIT License**.  
+YOLOv8 is © Ultralytics and licensed under AGPL-3.0.
+
+---
+
+> Built for Python 3.13 · Intel UHD CPU · Ultralytics YOLOv8
