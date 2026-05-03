@@ -32,8 +32,8 @@ A **real-time object detection system** built using YOLOv8, optimized for **CPU-
 ### 1. Clone repo
 
 ```bash
-git clone [Object Detection](https://github.com/mehtadigisha/Object-Detection)
-cd Object Detection
+git clone https://github.com/mehtadigisha/Object-Detection.git
+cd Object-Detection
 ```
 
 ### 2. Create virtual environment
@@ -183,13 +183,13 @@ hair drier  toothbrush
 
 ---
 
-### DEMO Example
-    ### - Input
-      [Input Video](https://github.com/user-attachments/assets/59a4c141-e06a-41c4-8333-e5153c1e1a68)
+## 🎬 Demo Example
 
+### 📥 Input
+[Input Video](https://github.com/user-attachments/assets/59a4c141-e06a-41c4-8333-e5153c1e1a68)
 
-    ### - Output
-       [Output Video](https://github.com/user-attachments/assets/b4298d0b-e381-4533-b8e7-2f2f1bfc90a7)
+### 📤 Output
+[Output Video](https://github.com/user-attachments/assets/b4298d0b-e381-4533-b8e7-2f2f1bfc90a7)
 
 ## 📄 License
 
