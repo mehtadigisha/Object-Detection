@@ -32,7 +32,7 @@ A **real-time object detection system** built using YOLOv8, optimized for **CPU-
 ### 1. Clone repo
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/yolov8-cpu-object-detector.git
+git clone [https://github.com/YOUR_USERNAME/yolov8-cpu-object-detector.git](https://github.com/mehtadigisha/Object-Detection)
 cd yolov8-cpu-object-detector
 ```
 
@@ -84,12 +84,6 @@ numpy      : 2.0.1
 ---
 
 ### ▶️ Run the Project
-
-```bash
-python app.py
-```
-
-### 🎥 Options
 
 ```bash
 python main.py
